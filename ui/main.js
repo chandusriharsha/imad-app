@@ -7,7 +7,7 @@ element.innerHTML='Hi this is Harsha from St.peters Engineering College';
 var img=document.getElementById('madi');
 var marginLeft=0;
  function moveRight(){
-     moveLeft=moveLeft+10;
+     marginLeft=marginLeft+10;
      img.style.marginLeft=marginLeft+'px';
  }
  
