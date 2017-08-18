@@ -8,10 +8,20 @@ app.use(morgan('combined'));
 var article-one {
   title:'article-one i am chandu sriharsha'
   heading:article-one,
-  date:may 1 1996
+  date:MAy 1 1996,
+  content:'<p>
+                This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.
+            </p>
+            <p>
+                This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.
+            </p>
+            <p>
+                This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.
+            </p>
+            <p>
+                This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.    This is the content for my first article.
+            </p>'
   
-  
-    
 };
 
 
