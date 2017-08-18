@@ -26,18 +26,18 @@ var articles={
     'article-two':{
         title:' Article-Two This is harsha',
         heading:' Article-Two',
-        date: 'MAy 1 1996',
+        date: 'MAy 2 1996',
         content:` <p>
                     This is the content for my second article.    content for my  article.
                 </p>`
         
     },
     'article-three':{
-        title:' Article-Two This is harsha',
-        heading:' Article-Two',
-        date: 'MAy 1 1996',
+        title:' Article-Three This is harsha',
+        heading:' Article-Three',
+        date: 'MAy 3 1996',
         content:` <p>
-                    This is the content for my second article.    content for my  article.
+                    This is the content for my third article.    content for my  article.
                 </p>`
         
                  },
