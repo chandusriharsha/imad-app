@@ -4,7 +4,7 @@ var element=document.getElementById('main-text'
 );
 element.innerHTML='Hi this is Harsha from St.peters Engineering College';
 //move the image
-var img=document.getElementById('madi');
+var img=document.getElementById('SRIHARSHA');
 var marginLeft=0;
  function moveRight(){
      marginLeft=marginLeft+1;
